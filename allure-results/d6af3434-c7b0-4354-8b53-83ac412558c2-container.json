@@ -1,0 +1,1 @@
+{"uuid":"d6af3434-c7b0-4354-8b53-83ac412558c2","name":"CareMonitor.testCases.TC_Login_001","children":["24e77381-4aa7-4819-94b8-76c3f33ac8f5"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1665952503533,"stop":1665952509355}],"afters":[],"start":1665952503184,"stop":1665952510598}

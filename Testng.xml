@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="CareMonitor_v1">
+
+<listeners>
+	  	<listener class-name="CareMonitor.utilities.Reporting" />  
+</listeners>
+
+   <test name="caremonitor test">
+     <parameter name="browser" value="chrome"/>
+       <classes>    
+         
+         
+         <!-- <class name="CareMonitor.testCases.TC_LoginDDT_001"/>  -->
+         
+           <class name="CareMonitor.testCases.TC_Login_001"/> 
+            
+               
+       </classes> 
+   </test> 
+  
+</suite>
+
+
